@@ -48,6 +48,6 @@ For analyzing recursive algorithms, we can analyze them intuitively by consideri
 
 ***
 
-#### [Season 1 - Divide and Conquer Algorithsm](03-divide-and-conquer/divide-and-conquer.md)
+#### [Season 1 - Divide and Conquer Algorithms](03-divide-and-conquer/divide-and-conquer.md)
 
 #### [Season 2 - ]()
